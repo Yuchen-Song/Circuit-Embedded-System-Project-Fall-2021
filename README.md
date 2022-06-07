@@ -1,4 +1,4 @@
-# Circuit-Embedded-System-Project-Fall-2021-
+# Circuit-Embedded-System-Project-Fall-2021
 A repository for project materials of Circuit &amp; Embedded System Project (Fall 2021)  
 You can find an introduction video to our project at [Intro](https://youtu.be/kipmrE_F4Fc)  
 Also, the competition record is shown here.  
